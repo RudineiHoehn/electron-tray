@@ -1,0 +1,14 @@
+{
+  "name": "Tray",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com:RudineiHoehn/electron-tray.git",
+  "author": "Rudinei Hoehn <rudineilh@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^8.0.0"
+  }
+}
